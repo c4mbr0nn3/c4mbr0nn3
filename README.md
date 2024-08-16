@@ -1,10 +1,12 @@
 # Hi, I'm Francesco! 👋
 
-* 🌍  I'm based in Milan
-* 🖥️  See my portfolio at [francescozorzi.me](http://francescozorzi.me/)
-* ✉️  You can contact me at [francesco.zorzi.1@gmail.com](mailto:francesco.zorzi.1@gmail.com)
-* 🚀  I'm currently working on [Podcats](https://github.com/c4mbr0nn3/podcats)
-* 🧠  I'm learning lots of stuff... like a ton... I'm a bit lost tbh.
+* 👨‍💻  Working at [Technesthai](https://www.technesthai.com) as Software Engineer Manager.
+* 🌍  Working remotely from Milan, Italy.
+* 🚀  My current side project is [PodCats](https://github.com/c4mbr0nn3/podcats), a cat-themed podcast manager.
+* 📃  Here you can find [my resume](https://resume.francescozorzi.me/).
+* 💾  My personal website is [francescozorzi.me](http://francescozorzi.me/).
+* ✉️  You can contact me at [francesco.zorzi.1@gmail.com](mailto:francesco.zorzi.1@gmail.com).
+
 
 ## Skills
 

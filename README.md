@@ -7,7 +7,6 @@
 * 💾  My personal website is [francescozorzi.me](http://francescozorzi.me/).
 * ✉️  You can contact me at [francesco.zorzi.1@gmail.com](mailto:francesco.zorzi.1@gmail.com).
 
-
 ## Skills
 
 ### Languages

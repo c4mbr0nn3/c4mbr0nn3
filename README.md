@@ -1,14 +1,15 @@
 # Hi, I'm Francesco! 👋
 
-Software Engineer & Team Lead with 5+ years in .NET and modern web — financial services background, self-hosting enthusiast, ships side projects.
+Software Engineer with 5+ years in .NET and modern web — financial services background, self-hosting enthusiast, ships side projects.
 
-* 👨‍💻  Working at [Technesthai](https://www.technesthai.com) as Software Engineer & Team Lead.
+* 👨‍💻  Working at [Digital Technologies](https://digtechs.com/) as Senior Software Engineer.
 * 🌍  Working remotely from Milan, Italy.
 
 ## Projects
 
-[![SplitDuo](https://github-readme-stats.vercel.app/api/pin/?username=c4mbr0nn3&repo=splitduo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/splitduo)
-[![PodCats](https://github-readme-stats.vercel.app/api/pin/?username=c4mbr0nn3&repo=podcats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/podcats)
+[![SplitDuo](https://github-stats-extended.vercel.app/api/pin/?username=c4mbr0nn3&repo=splitduo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/splitduo)
+
+[![PodCats](https://github-stats-extended.vercel.app/api/pin/?username=c4mbr0nn3&repo=podcats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/podcats)
 
 ## Skills
 
@@ -36,9 +37,9 @@ Software Engineer & Team Lead with 5+ years in .NET and modern web — financial
 
 ## Stats
 
-<a href="http://www.github.com/c4mbr0nn3"><img src="https://github-readme-stats.vercel.app/api?username=c4mbr0nn3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="c4mbr0nn3's GitHub stats" /></a>
+<a href="http://www.github.com/c4mbr0nn3"><img src="https://github-stats-extended.vercel.app/api?username=c4mbr0nn3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="c4mbr0nn3's GitHub stats" /></a>
 
-<a href="https://github.com/c4mbr0nn3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4mbr0nn3&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top languages" /></a>
+<a href="https://github.com/c4mbr0nn3"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=c4mbr0nn3&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top languages" /></a>
 
 <a href="https://streak-stats.demolab.com?user=c4mbr0nn3"><img src="https://streak-stats.demolab.com?user=c4mbr0nn3&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub streak" /></a>
 

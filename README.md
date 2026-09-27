@@ -10,7 +10,7 @@ Software Engineer with 5+ years in .NET and modern web — financial services ba
 
 [![SplitDuo](https://github-stats-extended.vercel.app/api/pin/?username=c4mbr0nn3&repo=splitduo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/splitduo)
 
-[![PodCats](https://github-stats-extended.vercel.app/api/pin/?username=c4mbr0nn3&repo=podcats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/podcats)
+[![gh-release-notify](https://github-stats-extended.vercel.app/api/pin/?username=c4mbr0nn3&repo=podcats&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/gh-release-notify)
 
 [![digital-signature-poc](https://github-stats-extended.vercel.app/api/pin/?username=c4mbr0nn3&repo=digital-signature-poc&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/c4mbr0nn3/digital-signature-poc)
 
